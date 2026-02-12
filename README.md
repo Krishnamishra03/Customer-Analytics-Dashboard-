@@ -1,52 +1,74 @@
-# Customer Analytics Dashboard for Sales Data (Oct 2020 - Sep 2021)
+Customer Analytics Dashboard (Oct 2020 – Sep 2021)
+Overview
 
-## Project Overview
+This project presents a Customer Analytics Dashboard built using Power BI to analyze sales transaction data from October 2020 to September 2021. The dashboard focuses on understanding customer behavior, retention patterns, revenue contribution, and segmentation, helping businesses make informed sales and marketing decisions through interactive visualizations.
 
-This Power BI project provides comprehensive customer analytics for sales data from October 2020 to September 2021. The dashboard offers valuable insights into customer behavior, segmentation, and performance metrics to support data-driven decision-making in sales and marketing strategies.
+Key Metrics
 
-## Key Performance Indicators (KPIs)
+The dashboard tracks important customer performance indicators, including:
 
-- New Customers
-- Recurring Customers
-- Last Quarter Churn Rate
-- Last Quarter Retention Rate
-- Customer Lifetime Value (CLV)
-- Average Revenue Per Person (ARPP)
+New Customers
 
-## Charts and Visualizations
+Returning Customers
 
-1. Top 100 Customers
-2. Total Customers Over Time (Line Chart)
-3. Customer Loyalty Segments Based on Tenure
-4. Average Revenue Per Person Trend
-5. Geographical Segmentation
-6. Total Revenue by Gender
-7. Total Orders by Gender
-8. Total Orders by Age
-9. Total Revenue by Age
-10. Customer Preferred Payment Methods (Pie Chart)
-11. Customers by Category
-12. RFM (Recency, Frequency, Monetary) Score Histograms
-13. Relationship between Recency, Frequency, and Monetary Value
-14. Monetary Value by RFM Customer Segments
-15. Orders by RFM Customer Segments
+Quarterly Churn Rate
 
-## Data Source
+Quarterly Retention Rate
 
-The data used in this project covers sales transactions from October 2020 to September 2021. Ensure that your data is in the correct format and up-to-date before using this dashboard.
+Customer Lifetime Value (CLV)
 
-## Setup and Usage
+Average Revenue Per User (ARPU)
 
-1. Clone this repository to your local machine.
-2. Open the .pbix file using Power BI Desktop.
-3. Refresh the data source connection if necessary.
-4. Interact with the visualizations to gain insights into customer behavior and performance.
+Dashboard Visualizations
 
-## Requirements
+The dashboard includes multiple analytical views to explore customer data:
 
-- Power BI Desktop (latest version recommended)
-- Access to the sales data source
+Top 100 Customers by Revenue
 
+Customer Growth Trend (Time Series)
 
+Loyalty Segmentation Based on Customer Tenure
 
+Average Revenue Trend
 
+Geographic Customer Distribution
+
+Revenue Distribution by Gender
+
+Order Distribution by Gender
+
+Orders by Age Group
+
+Revenue by Age Group
+
+Payment Method Preferences
+
+Customer Distribution by Product Category
+
+RFM Score Distribution (Histograms)
+
+Recency vs Frequency vs Monetary Analysis
+
+Monetary Value by RFM Segment
+
+Orders by RFM Segment
+
+Dataset
+
+The dataset contains sales transaction records from Oct 2020 to Sep 2021 used to perform customer analytics and segmentation.
+
+How to Use
+
+Download or clone the repository.
+
+Open the Power BI (.pbix) file in Power BI Desktop.
+
+Update or refresh the dataset connection if required.
+
+Explore the dashboard using filters and interactive charts.
+
+Requirements
+
+Power BI Desktop
+
+Sales transaction dataset
