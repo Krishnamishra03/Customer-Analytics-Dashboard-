@@ -1,48 +1,54 @@
-##Customer Analytics Dashboard for Sales Data (Oct 2020 – Sep 2021)
+Customer Analytics Dashboard for Sales Data (Oct 2020 – Sep 2021)
 Project Overview
 
-This project showcases a Customer Analytics Dashboard developed using Power BI to analyze sales transaction data from October 2020 to September 2021. The dashboard helps in understanding customer purchasing behavior, segmentation, revenue contribution, and retention performance through interactive visualizations. It supports data-driven decision-making for sales and marketing teams.
+This project presents a Power BI Customer Analytics Dashboard built to analyze sales transactions from Oct 2020 to Sep 2021. It provides insights into customer behavior, segmentation, retention, and revenue trends, enabling better data-driven business decisions.
 
-##Key Performance Indicators (KPIs)
-The dashboard tracks important customer and revenue metrics, including:
+Key Performance Indicators (KPIs)
 
-New Customers
-Recurring Customers
-Quarterly Churn Rate
-Quarterly Retention Rate
-Customer Lifetime Value (CLV)
-Average Revenue Per Person (ARPP)
-Charts and Visualizations
-The dashboard includes multiple visual components for detailed customer analysis:
-Top 100 Customers by Revenue
-Total Customers Over Time (Line Chart)
-Customer Loyalty Segments Based on Tenure
-Average Revenue Per Person Trend
-Geographical Customer Segmentation
-Total Revenue by Gender
-Total Orders by Gender
-Total Orders by Age Group
-Total Revenue by Age Group
-Customer Preferred Payment Methods (Pie Chart)
-Customers by Product Category
-RFM Score Distribution (Histograms)
-Recency vs Frequency vs Monetary Relationship
-Monetary Value by RFM Customer Segments
-Orders by RFM Customer Segments
+1.New Customers
+
+2.Recurring Customers
+
+3.Churn Rate
+
+4.Retention Rate
+
+5.Customer Lifetime Value (CLV)
+
+6.Average Revenue Per Person (ARPP)
+
+##Charts and Visualizations
+
+1.Top 100 Customers by Revenue
+
+2.Customer Growth Trend (Line Chart)
+
+3.Loyalty Segmentation by Tenure
+
+4.Revenue & Orders by Age and Gender
+
+5.Geographic Segmentation
+
+6.Payment Method Preferences
+
+7.Customers by Category
+
+8.RFM (Recency, Frequency, Monetary) Analysis
 
 ##Data Source
 
-The dataset contains sales transaction records from October 2020 to September 2021, used to perform customer analytics, segmentation, and performance tracking. Ensure the dataset is properly formatted and updated before refreshing the dashboard.
+Sales transaction dataset covering October 2020 – September 2021.
 
-##Setup and Usage
+##Setup
 
-Follow these steps to run the dashboard:
-Clone or download this repository.
-Open the .pbix file using Power BI Desktop.
-Refresh the dataset connection if required.
-Use filters and visuals to explore customer insights.
+1.Download or clone the repository
+
+2.Open the .pbix file in Power BI Desktop
+
+3.Refresh the dataset connection
 
 ##Requirements
 
-Power BI Desktop (latest version recommended)
-Access to the sales dataset
+1.Power BI Desktop
+
+2.Sales dataset
